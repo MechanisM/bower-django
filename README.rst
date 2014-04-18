@@ -11,7 +11,7 @@ Install it with ``bower install django --save`` and then use Grunt to copy admin
 Compability to django verions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-As far as this is just copy of static files from django package, use same verion as your django version
+As far as this is just copy of static files from django package, use same version as your django version
 
 Example in bower.json:
 
